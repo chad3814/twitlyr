@@ -1,0 +1,6 @@
+twitlyr - file transfer on twitter via tweets
+
+I start this on a lark to see if one could (ab)use twitter this way. Mostly completely functioning, twitlyr.sh takes three arguments, the file name you want to upload and the username and password of the use to do the tweeting. detwitlyr.sh only takes one argument, the username from whom the first file it finds in the tweet-stream it will download.
+
+---
+chad, 2010-03-18
